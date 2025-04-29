@@ -1,0 +1,58 @@
+body {
+    font-family: "Bellefair", serif;
+    background-color: rgb(252, 246, 238);
+}
+
+nav>div {
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+svg {
+    width: 200px;
+    display: inline-block;
+}
+
+.whitespace {
+    width: 800px;
+    display: inline-block;
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 1.5rem;
+}
+
+section {
+    text-align: center;
+    margin: 50px 0;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 2rem;
+    margin: auto;
+}
+
+button {
+    text-decoration: none;
+    border: none;
+    font-size: 2rem;
+    font-family: inherit;
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    padding: 5px 40px;
+    display: block;
+    margin: auto;
+}
